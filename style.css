@@ -1,0 +1,53 @@
+/*Author: Bo Fan
+  Date: 03/28/2019  
+  Time: 1:03:52
+  Project: CertiK UI Engineer Take-home Test
+*/
+.tower {
+    position: absolute;
+    visibility: visible;
+    left: 77px;
+    top: 184px;
+    font: bold 30px Tahoma;
+    font-family:cursive
+}
+
+.tower-container {
+    position: absolute;
+    visibility: visible;
+}
+
+.towervert {
+    position: absolute;
+    visibility: visible;
+    border: 1px solid white;
+    background-color: white
+}
+
+.towerhoriz {
+    position: absolute;
+    visibility: visible;
+    border: 1px solid white;
+    font-size: 1px;
+    background-color: white
+}
+
+.disk {
+    position: absolute;
+    visibility: visible;
+    border: 1px solid black
+}
+.Title{
+    color: aliceblue;
+    margin-top: 60px;
+    font-family:inherit;
+}
+.text{
+    color: aliceblue;
+    margin-top: 70px;
+    font-family:inherit;
+}
+.info{
+    color: aliceblue;
+    font-family: inherit;
+}
