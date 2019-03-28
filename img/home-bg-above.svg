@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="685px" height="455px" viewBox="0 0 685 455" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>net-02</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="rednet" stroke="#E5453D">
+            <g id="net-02">
+                <ellipse id="Oval" fill="#964040" cx="203.730493" cy="379.613105" rx="2.78195739" ry="2.79788306"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="253.723635" cy="397.400302" rx="3.00998668" ry="3.02721774"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="179.367843" cy="354.918347" rx="3.50252996" ry="3.52258065"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="248.579294" cy="235.590927" rx="4.18661784" ry="4.21058468"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="500.013515" cy="224.17006" rx="4.20486019" ry="4.22893145"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="324.421838" cy="275.284173" rx="4.15013316" ry="4.17389113"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="271.281891" cy="256.322782" rx="3.92210386" ry="3.94455645"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="396.926032" cy="325.930444" rx="5.01664447" ry="5.0453629"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="441.866045" cy="324.72873" rx="2.93701731" ry="2.95383065"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="431.31285" cy="359.009677" rx="2.93701731" ry="2.95383065"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="467.58775" cy="409.279839" rx="3.42043941" ry="3.44002016"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="358.635353" cy="387.493044" rx="3.42043941" ry="3.44002016"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="609.841545" cy="450.807762" rx="3.42043941" ry="3.44002016"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="505.066644" cy="319.316431" rx="4.6517976" ry="4.67842742"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="612.468442" cy="284.741935" rx="4.6517976" ry="4.67842742"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="648.989614" cy="314.949899" rx="3.97683089" ry="3.99959677"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="646.335353" cy="227.692641" rx="3.97683089" ry="3.99959677"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="663.975699" cy="240.058367" rx="3.15592543" ry="3.17399194"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="330.405326" cy="300.336694" rx="3.53901465" ry="3.55927419"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="430.291278" cy="245.865121" rx="5.01664447" ry="5.0453629"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="400.939348" cy="110.970464" rx="5.01664447" ry="5.0453629"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="489.861651" cy="142.325101" rx="3.67583222" ry="3.696875"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="543.038083" cy="82.7256048" rx="5.01664447" ry="5.0453629"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="605.855593" cy="138.013609" rx="5.54567244" ry="5.57741935"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="647.037683" cy="44.7019153" rx="5.54567244" ry="5.57741935"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="575.00779" cy="4.9077621" rx="4.35992011" ry="4.38487903"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="526.537883" cy="188.357157" rx="4.63355526" ry="4.66008065"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="364.892477" cy="198.429536" rx="5.01664447" ry="5.0453629"></ellipse>
+                <path d="M236.79474,292.970464 L179.367843,354.918347" id="Path" stroke-width="0.65"></path>
+                <path d="M236.79474,292.970464 L247.840479,234.912097" id="Path" stroke-width="0.65"></path>
+                <path d="M271.281891,256.322782 L247.840479,234.912097" id="Path" stroke-width="0.65"></path>
+                <path d="M271.281891,256.322782 L364.892477,198.429536" id="Path" stroke-width="0.65"></path>
+                <path d="M324.421838,275.284173 L271.281891,256.322782" id="Path" stroke-width="0.65"></path>
+                <path d="M364.892477,198.429536 L247.840479,234.912097" id="Path" stroke-width="0.65"></path>
+                <path d="M364.892477,198.429536 L430.291278,245.865121" id="Path" stroke-width="0.65"></path>
+                <path d="M364.892477,198.429536 L400.939348,110.970464" id="Path" stroke-width="0.65"></path>
+                <path d="M400.939348,110.970464 L489.861651,142.325101" id="Path" stroke-width="0.65"></path>
+                <path d="M489.861651,142.325101 L543.038083,82.7256048" id="Path" stroke-width="0.65"></path>
+                <path d="M489.615379,141.738004 L526.537883,188.357157" id="Path" stroke-width="0.65"></path>
+                <path d="M400.939348,110.970464 L526.537883,188.357157" id="Path" stroke-width="0.65"></path>
+                <path d="M543.038083,82.7256048 L526.537883,188.357157" id="Path" stroke-width="0.65"></path>
+                <path d="M400.939348,110.970464 L430.291278,245.865121" id="Path" stroke-width="0.65"></path>
+                <path d="M605.855593,138.013609 L526.537883,188.357157" id="Path" stroke-width="0.65"></path>
+                <path d="M605.855593,138.013609 L647.037683,44.7019153" id="Path" stroke-width="0.65"></path>
+                <path d="M605.855593,138.013609 L575.00779,4.9077621" id="Path" stroke-width="0.65"></path>
+                <path d="M647.037683,44.7019153 L575.00779,4.9077621" id="Path" stroke-width="0.65"></path>
+                <path d="M543.038083,82.7256048 L575.00779,4.9077621" id="Path" stroke-width="0.65"></path>
+                <path d="M543.038083,82.7256048 L605.855593,138.013609" id="Path" stroke-width="0.65"></path>
+                <ellipse id="Oval" fill="#964040" cx="236.79474" cy="292.970464" rx="5.88315579" ry="5.91683468"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="182.323103" cy="232.719657" rx="3.61198402" ry="3.63266129"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="7.79860186" cy="234.97631" rx="5.88315579" ry="5.91683468"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="102.531092" cy="156.195262" rx="3.97683089" ry="3.99959677"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="51.0694407" cy="330.452923" rx="5.88315579" ry="5.91683468"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="13.4081225" cy="366.605242" rx="5.88315579" ry="5.91683468"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="4.8798269" cy="380.879032" rx="4.26870839" ry="4.29314516"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="112.099201" cy="126.987198" rx="4.26870839" ry="4.29314516"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="157.513515" cy="252.506653" rx="5.01664447" ry="5.0453629"></ellipse>
+                <ellipse id="Oval" fill="#964040" cx="63.8025965" cy="291.383468" rx="5.01664447" ry="5.0453629"></ellipse>
+                <path d="M236.79474,292.970464 L182.323103,232.719657" id="Path" stroke-width="0.65"></path>
+                <path d="M157.513515,252.506653 L182.323103,232.719657" id="Path" stroke-width="0.65"></path>
+                <path d="M157.513515,252.506653 L102.531092,156.195262" id="Path" stroke-width="0.65"></path>
+                <path d="M102.531092,156.195262 L182.323103,232.719657" id="Path" stroke-width="0.65"></path>
+                <path d="M51.0694407,330.452923 L236.79474,292.970464" id="Path" stroke-width="0.65"></path>
+                <path d="M51.0694407,330.452923 L63.8025965,291.383468" id="Path" stroke-width="0.65"></path>
+                <path d="M51.0694407,330.452923 L13.4081225,366.605242" id="Path" stroke-width="0.65"></path>
+                <path d="M51.0694407,330.452923 L179.367843,354.918347" id="Path" stroke-width="0.65"></path>
+                <path d="M51.0694407,330.452923 L7.79860186,234.97631" id="Path" stroke-width="0.65"></path>
+                <path d="M236.79474,292.970464 L253.778362,397.134274" id="Path" stroke-width="0.65"></path>
+                <path d="M236.79474,292.970464 L324.421838,275.284173" id="Path" stroke-width="0.65"></path>
+                <path d="M430.291278,245.865121 L324.421838,275.284173" id="Path" stroke-width="0.65"></path>
+                <path d="M430.291278,245.865121 L500.013515,224.17006" id="Path" stroke-width="0.65"></path>
+                <path d="M441.911651,325.058972 L430.291278,245.865121" id="Path" stroke-width="0.65"></path>
+                <path d="M504.884221,319.261391 L441.866045,324.72873" id="Path" stroke-width="0.65"></path>
+                <path d="M504.884221,319.261391 L430.291278,245.865121" id="Path" stroke-width="0.65"></path>
+                <path d="M396.926032,325.930444 L430.291278,245.865121" id="Path" stroke-width="0.65"></path>
+                <path d="M396.926032,325.930444 L324.421838,275.284173" id="Path" stroke-width="0.65"></path>
+                <path d="M330.405326,300.336694 L324.421838,275.284173" id="Path" stroke-width="0.65"></path>
+                <path d="M330.405326,300.336694 L236.79474,292.970464" id="Path" stroke-width="0.65"></path>
+                <path d="M330.405326,300.336694 L253.778362,397.134274" id="Path" stroke-width="0.65"></path>
+                <path d="M330.405326,300.336694 L396.926032,325.930444" id="Path" stroke-width="0.65"></path>
+                <path d="M330.405326,300.336694 L358.635353,387.493044" id="Path" stroke-width="0.65"></path>
+                <path d="M430.291278,245.865121 L526.537883,188.357157" id="Path" stroke-width="0.65"></path>
+                <path d="M500.013515,224.17006 L526.537883,188.357157" id="Path" stroke-width="0.65"></path>
+                <path d="M504.884221,319.261391 L500.013515,224.17006" id="Path" stroke-width="0.65"></path>
+                <path d="M431.31285,359.009677 L467.58775,409.279839" id="Path" stroke-width="0.65"></path>
+                <path d="M504.884221,319.261391 L431.31285,359.009677" id="Path" stroke-width="0.65"></path>
+                <path d="M431.31285,359.009677 L358.635353,387.493044" id="Path" stroke-width="0.65"></path>
+                <path d="M396.926032,325.930444 L441.866045,324.72873" id="Path" stroke-width="0.65"></path>
+                <path d="M396.926032,325.930444 L431.31285,359.009677" id="Path" stroke-width="0.65"></path>
+                <path d="M612.468442,284.741935 L500.013515,224.17006" id="Path" stroke-width="0.65"></path>
+                <path d="M646.335353,227.692641 L500.013515,224.17006" id="Path" stroke-width="0.65"></path>
+                <path d="M646.335353,227.692641 L605.855593,138.013609" id="Path" stroke-width="0.65"></path>
+                <path d="M609.841545,450.807762 L504.884221,319.261391" id="Path" stroke-width="0.65"></path>
+                <path d="M646.335353,227.692641 L612.468442,284.741935" id="Path" stroke-width="0.65"></path>
+                <path d="M646.335353,227.692641 L663.975699,240.058367" id="Path" stroke-width="0.65"></path>
+                <path d="M612.468442,284.741935 L504.884221,319.261391" id="Path" stroke-width="0.65"></path>
+                <path d="M612.468442,284.741935 L648.989614,314.949899" id="Path" stroke-width="0.65"></path>
+                <path d="M612.468442,284.741935 L609.841545,450.807762" id="Path" stroke-width="0.65"></path>
+                <path d="M648.989614,314.949899 L609.841545,450.807762" id="Path" stroke-width="0.65"></path>
+                <path d="M663.975699,240.058367 L648.989614,314.949899" id="Path" stroke-width="0.65"></path>
+                <path d="M431.31285,359.009677 L441.866045,324.72873" id="Path" stroke-width="0.65"></path>
+                <path d="M396.926032,325.930444 L358.635353,387.493044" id="Path" stroke-width="0.65"></path>
+                <path d="M358.635353,387.493044 L253.778362,397.134274" id="Path" stroke-width="0.65"></path>
+                <path d="M609.841545,450.807762 L467.58775,409.279839" id="Path" stroke-width="0.65"></path>
+                <path d="M605.855593,138.013609 L684.553063,64.8099798" id="Path" stroke-width="0.65"></path>
+                <path d="M236.79474,292.970464 L203.730493,379.613105" id="Path" stroke-width="0.65"></path>
+                <path d="M253.778362,397.134274 L203.730493,379.613105" id="Path" stroke-width="0.65"></path>
+                <path d="M203.730493,379.613105 L179.367843,354.918347" id="Path" stroke-width="0.65"></path>
+                <path d="M648.989614,314.949899 L677.028096,373.604536" id="Path" stroke-width="0.65"></path>
+                <path d="M677.584487,454.422077 L609.841545,450.807762" id="Path" stroke-width="0.65"></path>
+                <path d="M358.635353,387.493044 L467.58775,409.279839" id="Path" stroke-width="0.65"></path>
+                <path d="M236.79474,292.970464 L271.281891,256.322782" id="Path" stroke-width="0.65"></path>
+                <path d="M505.066644,319.316431 L467.58775,409.279839" id="Path" stroke-width="0.65"></path>
+            </g>
+        </g>
+    </g>
+</svg>
